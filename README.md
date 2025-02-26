@@ -3,7 +3,11 @@
 This is a new **React Native** project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 [🎥 Watch Demo Video](https://drive.google.com/file/d/1GXLhUYRXhcCueRlKMfDEmfrkOPbc10gI/view?usp=sharing)
-https://github.com/user-attachments/assets/ce46ca32-143b-4670-8f36-c23aa7b5045b
+
+
+https://github.com/user-attachments/assets/262c8146-9a27-43a2-a37e-20afbc6e2205
+
+
 
 ## 📌 Getting Started
 
