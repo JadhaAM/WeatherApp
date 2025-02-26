@@ -6,6 +6,10 @@ This is a new **React Native** project, bootstrapped using [`@react-native-commu
 
 ## 📌 Getting Started
 
+https://github.com/user-attachments/assets/ce46ca32-143b-4670-8f36-c23aa7b5045b
+
+
+
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ### Step 1: Clone the Repository and Start Metro
